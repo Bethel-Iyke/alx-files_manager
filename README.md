@@ -1,2 +1,1 @@
-# alx-files_manager
-ALX project
+File Manager Project
